@@ -1,16 +1,8 @@
 # dice_game
 
-A new Flutter application.
+- A new Flutter application that can be used as a portable dice launcher. 
+- It is developed in Dart using Flutter and it incorporates stateful widget functionality.
 
-## Getting Started
+![Screenshot_20201218-181620__01](https://user-images.githubusercontent.com/48805315/102616285-517f6700-415d-11eb-82ac-89609976c0f7.jpg)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
