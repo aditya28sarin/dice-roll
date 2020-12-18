@@ -1,4 +1,4 @@
-# dice_game
+# Dice-Roll Launcher
 
 - A new Flutter application that can be used as a portable dice launcher. 
 - It is developed in Dart using Flutter and it incorporates stateful widget functionality.
